@@ -5,5 +5,3 @@ elif A == B:
     print("same")
 else:
     print("B")
-
-    
