@@ -12,6 +12,7 @@
     - baek: 백준
     - pro: 프로그래머스
     - SWEA: SW Expert Academy
+    - soft: softeer
   
 - README 변경
 ** 날짜 기능 설명**
